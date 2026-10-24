@@ -1,0 +1,20 @@
+export const defaultSiteSettings = {
+  brandName: 'Asad Topup',
+  locationLabel: 'Bangladesh',
+  heroEyebrow: 'Asad Topup · Bangladesh',
+  heroTitleFirst: 'Game on.',
+  heroTitleSecond: 'Wait less.',
+  heroDescription: 'Top up your game with clear prices and account-based order tracking. Place a request now; our team will confirm it manually.',
+  heroPrimaryLabel: 'Browse top ups',
+  heroSecondaryLabel: 'Create an account',
+  catalogEyebrow: 'THE CATALOGUE',
+  catalogTitle: 'Find your next top up',
+  catalogDescription: 'Choose a package, enter your player ID, and keep the order with your account.',
+  services: [
+    { title: 'Clear prices', description: 'Package totals shown upfront' },
+    { title: 'Order history', description: 'Saved to your account' },
+    { title: 'Manual confirmation', description: 'No online payment collected' },
+  ],
+  footerDescription: 'Digital top ups for players who would rather be in the game.',
+  accentColor: '#00b894',
+};
